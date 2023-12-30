@@ -1,4 +1,4 @@
-# NU-aly6010-cats-dataset
+# NU-aly6010-cats-dataset-sleep-quality-dataset
 
 Part I: “cats” dataset
 
